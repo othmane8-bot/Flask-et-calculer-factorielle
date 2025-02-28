@@ -1,8 +1,11 @@
 1
 project-test-one  
 2
---> fill_0011 
+--> hello_world:
    Flask Python et écriture de "Hello World"  
 3
---> fill_022 
+--> factorille:
+   Programme Python pour calculer une factorielle
+4
+--> factorille_HTML_TEPLATE:
    Programme Python pour calculer une factorielle
